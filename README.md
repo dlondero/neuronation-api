@@ -17,3 +17,8 @@ Execute the following command to run the tests:
 ```bash
 docker-compose exec app vendor/bin/phpunit
 ```
+
+## Database
+
+Database diagram image can be found in the root directory of the project: `database_diagram.png`.
+For a more detailed view of the database schema you can check `./docker/database.sql` file.
